@@ -6,6 +6,8 @@ __pycache__/
 dist/
 build/
 .env
+.vscode/
+bads
 ica_pipeline.ipynb
 events_info.ipynb
 spanish-analysis-2.ipynb
