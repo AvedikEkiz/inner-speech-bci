@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+.env
+ica_pipeline.ipynb
+events_info.ipynb
+spanish-analysis-2.ipynb
+build_dataset.py
