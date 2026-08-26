@@ -97,3 +97,26 @@ A subset of Russian subjects (sub1, sub3, sub5, sub10) were recorded under an al
 | `utils/labels.py` | Label reference table and constants |
 | `example_usage.ipynb` | Data loading and usage examples |
 
+## Citing
+
+If you use this dataset in your work, please cite:
+
+> Kostulin DV, Shaposhnikov PD, Ekizyan AK, Shevchenko IG, Shaposhnikov DG, Shcherban IV, Kiroy VN. EEG-based brain-computer interface (BCI) dataset for directional word recognition. *Sci Data*. 2026 Aug 17;13(1):1195. doi: 10.1038/s41597-026-07809-9. PMID: 42608413; PMCID: PMC13482365.
+
+BibTeX:
+```bibtex
+@article{Kostulin2026,
+  author  = {Kostulin, D. V. and Shaposhnikov, P. D. and Ekizyan, A. K. and
+             Shevchenko, I. G. and Shaposhnikov, D. G. and Shcherban, I. V. and
+             Kiroy, V. N.},
+  title   = {EEG-based brain-computer interface (BCI) dataset for directional word recognition},
+  journal = {Scientific Data},
+  year    = {2026},
+  volume  = {13},
+  number  = {1},
+  pages   = {1195},
+  doi     = {10.1038/s41597-026-07809-9},
+  url     = {https://doi.org/10.1038/s41597-026-07809-9},
+  note    = {PMID: 42608413; PMCID: PMC13482365}
+}
+```
